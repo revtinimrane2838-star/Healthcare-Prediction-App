@@ -1,0 +1,101 @@
+OutcomeID,OutcomeName
+1,Recovered
+2,Improved
+3,Stable
+4,Transferred
+5,Referred for Follow-up
+6,Discharged Against Medical Advice
+7,Requires Further Treatment
+8,Under Observation
+9,Readmitted
+10,Deceased
+11,Recovered
+12,Improved
+13,Stable
+14,Transferred
+15,Referred for Follow-up
+16,Discharged Against Medical Advice
+17,Requires Further Treatment
+18,Under Observation
+19,Readmitted
+20,Deceased
+21,Recovered
+22,Improved
+23,Stable
+24,Transferred
+25,Referred for Follow-up
+26,Discharged Against Medical Advice
+27,Requires Further Treatment
+28,Under Observation
+29,Readmitted
+30,Deceased
+31,Recovered
+32,Improved
+33,Stable
+34,Transferred
+35,Referred for Follow-up
+36,Discharged Against Medical Advice
+37,Requires Further Treatment
+38,Under Observation
+39,Readmitted
+40,Deceased
+41,Recovered
+42,Improved
+43,Stable
+44,Transferred
+45,Referred for Follow-up
+46,Discharged Against Medical Advice
+47,Requires Further Treatment
+48,Under Observation
+49,Readmitted
+50,Deceased
+51,Recovered
+52,Improved
+53,Stable
+54,Transferred
+55,Referred for Follow-up
+56,Discharged Against Medical Advice
+57,Requires Further Treatment
+58,Under Observation
+59,Readmitted
+60,Deceased
+61,Recovered
+62,Improved
+63,Stable
+64,Transferred
+65,Referred for Follow-up
+66,Discharged Against Medical Advice
+67,Requires Further Treatment
+68,Under Observation
+69,Readmitted
+70,Deceased
+71,Recovered
+72,Improved
+73,Stable
+74,Transferred
+75,Referred for Follow-up
+76,Discharged Against Medical Advice
+77,Requires Further Treatment
+78,Under Observation
+79,Readmitted
+80,Deceased
+81,Recovered
+82,Improved
+83,Stable
+84,Transferred
+85,Referred for Follow-up
+86,Discharged Against Medical Advice
+87,Requires Further Treatment
+88,Under Observation
+89,Readmitted
+90,Deceased
+91,Recovered
+92,Improved
+93,Stable
+94,Transferred
+95,Referred for Follow-up
+96,Discharged Against Medical Advice
+97,Requires Further Treatment
+98,Under Observation
+99,Readmitted
+100,Deceased

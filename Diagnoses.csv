@@ -1,0 +1,101 @@
+DiagnosisID,DiagnosisName
+1,Hypertension
+2,Type 2 Diabetes Mellitus
+3,Asthma
+4,Chronic Obstructive Pulmonary Disease
+5,Coronary Artery Disease
+6,Heart Failure
+7,Atrial Fibrillation
+8,Pneumonia
+9,Acute Bronchitis
+10,Influenza
+11,COVID-19
+12,Tuberculosis
+13,Iron Deficiency Anemia
+14,Vitamin D Deficiency
+15,Hypothyroidism
+16,Hyperthyroidism
+17,Chronic Kidney Disease
+18,Acute Kidney Injury
+19,Urinary Tract Infection
+20,Kidney Stone
+21,Gastroesophageal Reflux Disease
+22,Peptic Ulcer Disease
+23,Irritable Bowel Syndrome
+24,Crohn's Disease
+25,Ulcerative Colitis
+26,Acute Appendicitis
+27,Cholelithiasis
+28,Acute Pancreatitis
+29,Nonalcoholic Fatty Liver Disease
+30,Hepatitis B
+31,Hepatitis C
+32,Migraine
+33,Tension-Type Headache
+34,Epilepsy
+35,Ischemic Stroke
+36,Transient Ischemic Attack
+37,Parkinson's Disease
+38,Alzheimer's Disease
+39,Multiple Sclerosis
+40,Peripheral Neuropathy
+41,Major Depressive Disorder
+42,Generalized Anxiety Disorder
+43,Bipolar Disorder
+44,Insomnia
+45,Obstructive Sleep Apnea
+46,Osteoarthritis
+47,Rheumatoid Arthritis
+48,Osteoporosis
+49,Gout
+50,Low Back Pain
+51,Cervical Spondylosis
+52,Lumbar Disc Herniation
+53,Fracture of Femur
+54,Sprain of Ankle
+55,Carpal Tunnel Syndrome
+56,Tendinitis
+57,Psoriasis
+58,Atopic Dermatitis
+59,Acne Vulgaris
+60,Cellulitis
+61,Eczema
+62,Allergic Rhinitis
+63,Sinusitis
+64,Otitis Media
+65,Conjunctivitis
+66,Cataract
+67,Glaucoma
+68,Periodontal Disease
+69,Dental Caries
+70,Obesity
+71,Metabolic Syndrome
+72,Polycystic Ovary Syndrome
+73,Endometriosis
+74,Uterine Fibroids
+75,Menstrual Disorders
+76,Benign Prostatic Hyperplasia
+77,Prostatitis
+78,Erectile Dysfunction
+79,Breast Cancer
+80,Lung Cancer
+81,Colorectal Cancer
+82,Prostate Cancer
+83,Thyroid Cancer
+84,Melanoma
+85,Leukemia
+86,Lymphoma
+87,Sepsis
+88,Dehydration
+89,Acute Gastroenteritis
+90,Food Poisoning
+91,Dermatitis
+92,Varicose Veins
+93,Deep Vein Thrombosis
+94,Pulmonary Embolism
+95,Hyperlipidemia
+96,Angina Pectoris
+97,Vitamin B12 Deficiency
+98,Celiac Disease
+99,Glaucoma Suspect
+100,Chronic Migraine
